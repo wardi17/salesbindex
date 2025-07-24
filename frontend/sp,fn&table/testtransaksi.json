@@ -1,0 +1,49 @@
+{
+    "header":{
+        "id_transo":"FAW.24070503005",
+        "nama_petugas":"WARDI",
+        "jabatan":"IT",
+        "divisi":"IT",
+        "tanggal":"25-07-2024 14:08:47",
+        "userlog":"NADIM",
+        "las_akses":"26-07-2024 14:08:47",
+        "typehp":"REDMI",
+        "lat": -25.363, 
+        "lng": 131.044
+    },
+    "detail":[
+        {
+        "item_no" :1,
+        "id_transo":"FAW.24070503005",
+        "jenis_limbah":"Karton",
+        "berat":50,
+        "pcs":0,
+        "total_kg":50,
+        "harga":10000,
+        "subtotal":500000,
+        "images":"iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg=="
+        },
+        {
+            "item_no" :2,
+            "id_transo":"FAW.24070503006",
+            "jenis_limbah":"Monitor",
+            "berat":50,
+            "pcs":0,
+            "total_kg":50,
+            "harga":10000,
+            "subtotal":500000,
+            "images":"iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg=="
+        },
+        {
+            "item_no" :3,
+            "id_transo":"FAW.24070503007",
+            "jenis_limbah":"Kaleng",
+            "berat":50,
+            "pcs":0,
+            "total_kg":50,
+            "harga":10000,
+            "subtotal":500000,
+            "images":"iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg=="
+        }
+    ]
+}
